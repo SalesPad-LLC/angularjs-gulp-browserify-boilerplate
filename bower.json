@@ -1,0 +1,36 @@
+{
+  "name": "angularjs-gulp-browserify-boilerplate",
+  "description": "Boilerplate using AngularJS, SASS, Gulp, and Browserify while also utilizing best practices.",
+  "main": "",
+  "authors": [
+    "salespad"
+  ],
+  "license": "unlicensed",
+  "keywords": [
+    "express",
+    "gulp",
+    "browserify",
+    "angular",
+    "sass",
+    "karma",
+    "jasmine",
+    "protractor",
+    "boilerplate"
+  ],
+  "homepage": "none",
+  "moduleType": [
+    "es6"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~4.0.0",
+    "jquery": "~2.2.0"
+  }
+}
